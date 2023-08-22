@@ -1,5 +1,5 @@
 # Responsive-Japanese-Club-Website
-Responsive Club Website Project on Codecadem
+Responsive Club Website Project on Codecademy
 
 
 **Introduction**
